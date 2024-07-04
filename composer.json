@@ -1,0 +1,15 @@
+{
+    "name": "nguyen/algo-php",
+    "autoload": {
+        "psr-4": {
+            "Nguyen\\AlgoPhp\\": "Question/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen181124",
+            "email": "nguyen181124@gmail.com"
+        }
+    ],
+    "require": {}
+}
